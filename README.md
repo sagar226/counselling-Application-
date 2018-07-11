@@ -1,0 +1,2 @@
+# counselling-Application-
+This project sends messages or emails to students of their annual reports, results, etc. In this project, there are two types of login, one for the administrator of the database and another for the faculty member. Administrator is only allowed to update or upload any file in the database. Faculty can send the attendance and other events information related to academics. In this project, if  the messages or SMSs are not send to the student then the mail will be sent by the system itself
